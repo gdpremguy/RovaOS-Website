@@ -1,0 +1,10 @@
+{
+  "product": "RovaOS",
+  "edition": "Horizon / Niri",
+  "channel": "preview",
+  "architecture": "x86-64",
+  "iso_url": "https://github.com/gdpremguy/RovaOS/releases/download/v0.1.0-preview/rovaos.iso",
+  "iso_bytes": 893386752,
+  "iso_sha256": "25fd8c68eee91e7bf957225d49c302555770be93b940e1b149590673c0778e0b",
+  "built_date_utc": "17 Nov 2026"
+}

@@ -1,0 +1,14 @@
+Rova Horizon
+============
+
+Created for RovaOS using original geometric curves and gradients.
+AI-assisted design and implementation; no third-party photograph, stock image,
+or existing wallpaper was used as input.
+
+Editable source: rova-horizon.svg
+Reproducible renderer: tools/build_horizon_wallpaper.py (requires Pillow)
+Desktop export: rova-horizon.png, 3840 x 2160
+
+This provenance note applies only to Rova Horizon, not to other artwork,
+application icons, fonts, or the Arc theme used by the desktop. Their original
+licences and attribution requirements still apply.
